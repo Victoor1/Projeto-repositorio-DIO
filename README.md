@@ -1,2 +1,2 @@
-# Projeto repositorio DIO
+# Projeto repositório DIO
 ## Primeiro repositório criado para o projeto da DIO
